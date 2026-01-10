@@ -1,4 +1,4 @@
-//10025 투 포인터
+//10025
 #include <iostream>
 
 using namespace std;
